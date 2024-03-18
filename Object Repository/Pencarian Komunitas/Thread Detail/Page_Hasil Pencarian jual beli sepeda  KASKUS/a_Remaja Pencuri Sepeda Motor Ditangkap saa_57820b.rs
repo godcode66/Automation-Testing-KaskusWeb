@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Remaja Pencuri Sepeda Motor Ditangkap saa_57820b</name>
+   <tag></tag>
+   <elementGuidId>f8f86b11-f5c0-4c88-a143-72488feac854</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;dataLayer.push({'event': 'trackEvent','eventDetails.category': 'GA4', 'eventDetails.action': 'open thread', 'eventDetails.label': 'search all', 'threadID':'5d222c0f337f9326686fcb71', 'threadTitle':'Remaja Pencuri Sepeda Motor Ditangkap saat Bermain Warnet, Jual Motor untuk Beli Baju', 'threadCategory':'0', 'cardStyle':'-', 'threadRead':'1'});&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Remaja Pencuri Sepeda Motor Ditangkap saat Bermain Warnet, Jual Motor untuk Beli Baju&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>80790dca-4d8b-43c0-bafa-f4f671119cb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>C(c-primary)</value>
+      <webElementGuid>7f88d9a3-4d26-4b08-9357-8b240f00da6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.kaskus.co.id/thread/5d222c0f337f9326686fcb71/?ref=search_all&amp;med=thread_list</value>
+      <webElementGuid>ab980b0c-a796-4d43-ba2e-61aad3446ec2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-threadid</name>
+      <type>Main</type>
+      <value>5d222c0f337f9326686fcb71</value>
+      <webElementGuid>148640ea-3ff0-4b00-a823-2b0b37d2b240</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>dataLayer.push({'event': 'trackEvent','eventDetails.category': 'GA4', 'eventDetails.action': 'open thread', 'eventDetails.label': 'search all', 'threadID':'5d222c0f337f9326686fcb71', 'threadTitle':'Remaja Pencuri Sepeda Motor Ditangkap saat Bermain Warnet, Jual Motor untuk Beli Baju', 'threadCategory':'0', 'cardStyle':'-', 'threadRead':'1'});</value>
+      <webElementGuid>5c4590df-c8f7-434b-9e42-a220cfa46f03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Remaja Pencuri Sepeda Motor Ditangkap saat Bermain Warnet, Jual Motor untuk Beli Baju </value>
+      <webElementGuid>5090a28e-75c7-4d93-a629-e1a02d90d4a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;divParent_5d222c0f337f9326686fcb71&quot;)/div[@class=&quot;D(f)&quot;]/div[@class=&quot;Fx(flexOne) D(f) Fxd(c) Jc(sb) Ai(fs)&quot;]/div[@class=&quot;Fw(500) C(c-primary) Fz(18px) Mb(10px)&quot;]/a[@class=&quot;C(c-primary)&quot;]</value>
+      <webElementGuid>7e0ef7c7-b762-4147-a6be-68dbb34b3ddc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;dataLayer.push({'event': 'trackEvent','eventDetails.category': 'GA4', 'eventDetails.action': 'open thread', 'eventDetails.label': 'search all', 'threadID':'5d222c0f337f9326686fcb71', 'threadTitle':'Remaja Pencuri Sepeda Motor Ditangkap saat Bermain Warnet, Jual Motor untuk Beli Baju', 'threadCategory':'0', 'cardStyle':'-', 'threadRead':'1'});&quot;]</value>
+      <webElementGuid>5413b74d-d9a6-4522-8fc2-42e23eec165e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divParent_5d222c0f337f9326686fcb71']/div[2]/div/div/a</value>
+      <webElementGuid>67b6ae07-4407-4a66-8e53-ec6475d28754</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Remaja Pencuri Sepeda Motor Ditangkap saat Bermain Warnet, Jual Motor untuk Beli Baju')]</value>
+      <webElementGuid>e612b849-36f9-4582-952e-5cab62ae37d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berita dan Politik'])[1]/following::a[1]</value>
+      <webElementGuid>de5394d1-bb2d-4fb8-8cc3-2091074dc1b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='•'])[1]/following::a[2]</value>
+      <webElementGuid>b79b421e-e46b-4302-b9e9-b251fdd44af1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='joshua1995'])[1]/preceding::a[5]</value>
+      <webElementGuid>b433e5ba-12d5-48f2-8813-d76a79f6c5d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='•'])[2]/preceding::a[6]</value>
+      <webElementGuid>e56b8d6d-6366-46fb-8a7b-5dc03a2427e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Remaja Pencuri Sepeda Motor Ditangkap saat Bermain Warnet, Jual Motor untuk Beli Baju']/parent::*</value>
+      <webElementGuid>6ef6d6ce-b0c3-4d04-9d37-048bfa5683e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.kaskus.co.id/thread/5d222c0f337f9326686fcb71/?ref=search_all&amp;med=thread_list')]</value>
+      <webElementGuid>66d4d5b2-17f3-4d6b-8b69-a941293372dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/a</value>
+      <webElementGuid>2644b3ce-ea4c-4ce8-ac53-9be513036e7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.kaskus.co.id/thread/5d222c0f337f9326686fcb71/?ref=search_all&amp;med=thread_list' and (text() = ' Remaja Pencuri Sepeda Motor Ditangkap saat Bermain Warnet, Jual Motor untuk Beli Baju ' or . = ' Remaja Pencuri Sepeda Motor Ditangkap saat Bermain Warnet, Jual Motor untuk Beli Baju ')]</value>
+      <webElementGuid>e45d137b-a14f-4882-9c8c-272a43fb43fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Email Null</description>
+   <name>LoginEmailNull</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2aae836-c7e7-43ea-92ce-af4b8121dd19</testCaseGuid>
+</TestCaseEntity>

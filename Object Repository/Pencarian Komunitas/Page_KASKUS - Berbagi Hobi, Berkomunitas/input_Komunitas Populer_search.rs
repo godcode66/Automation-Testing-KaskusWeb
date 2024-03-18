@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Komunitas Populer_search</name>
+   <tag></tag>
+   <elementGuidId>8a3b94fa-7da2-49d9-85f6-dd64fd0c53ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;search&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='search']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Cari di sini&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>1c316b5d-f61f-4c8b-9cf1-142877f36674</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-full w-full overflow-hidden rounded-3 border border-grey-2 bg-white pl-2 pr-10 text-sm text-grey-7 placeholder:text-tertiary focus:outline-none dark:border-grey-5 dark:bg-grey-7 dark:text-grey-2 dark:placeholder:text-tertiary-night</value>
+      <webElementGuid>8f14938e-d9be-4b58-bd9b-ec4661a26ec7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>search</value>
+      <webElementGuid>e9b807bc-0c6a-4556-b95e-ecb7a8d56069</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Cari di sini</value>
+      <webElementGuid>56d3934e-f197-43bc-a928-e6b74473f575</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>341b95f3-b757-4ad2-a87b-fb2bc67fe88f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sticky left-0 top-0 z-50 w-full border-b border-grey-2 bg-white dark:border-grey-6 dark:bg-grey-7&quot;]/div[@class=&quot;mx-auto flex w-full justify-between px-4 pb-2 pt-2 xl:max-w-7xl&quot;]/div[@class=&quot;ml-2 flex flex-grow items-center justify-end&quot;]/div[@class=&quot;relative z-10 max-w-xl flex-1&quot;]/div[@class=&quot;relative mx-auto h-9 z-10 flex-shrink-0 flex-grow&quot;]/input[@class=&quot;h-full w-full overflow-hidden rounded-3 border border-grey-2 bg-white pl-2 pr-10 text-sm text-grey-7 placeholder:text-tertiary focus:outline-none dark:border-grey-5 dark:bg-grey-7 dark:text-grey-2 dark:placeholder:text-tertiary-night&quot;]</value>
+      <webElementGuid>5a3718b7-95d4-47a4-b43f-9d01e81d39b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='search']</value>
+      <webElementGuid>a22d2b03-3e98-4700-9f67-0a3d82591f77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div/div/input</value>
+      <webElementGuid>709113cd-b238-4c37-bde7-1c4cb9e36d9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>c88cbfba-d139-4a82-b751-adb06a4b87a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'search' and @placeholder = 'Cari di sini']</value>
+      <webElementGuid>32406db4-6937-4d38-99ab-91c573bc4cff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

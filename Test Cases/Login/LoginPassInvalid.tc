@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>email true&#xd;
+pass false</description>
+   <name>LoginPassInvalid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8242e1f5-104a-41e8-b07c-022bd9a8428c</testCaseGuid>
+</TestCaseEntity>

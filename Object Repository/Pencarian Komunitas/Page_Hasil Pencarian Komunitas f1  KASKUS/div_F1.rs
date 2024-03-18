@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_F1</name>
+   <tag></tag>
+   <elementGuidId>6661dc11-3b34-4f5d-9e94-5a0995366155</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search-result']/div[4]/a/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;icon-community-f1 F1 Jumlah Anggota: 864 Membahas mesin mobil F1, pembalap, tim dan konstruktor, sirkuit, kualifikasi, hasil race, klasemen, hingga GP2 dan GP3&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5da2a869-7d11-4196-a5ae-830f42c5b88d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Fw(b) Fz(18px) Lh(1.33) C(c-secondary) Pb(4px)</value>
+      <webElementGuid>cd7f0095-6909-42d7-86ba-6bdc365e6a32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>F1 </value>
+      <webElementGuid>dad1700b-33bf-4c2c-a88c-502cc9946a18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search-result&quot;)/div[@class=&quot;P(16px) Bd(borderSolidLightGrey) Mb(8px) Bgc(c-white) D(f) Ai(c) Jc(sb) jsThreadCard&quot;]/a[@class=&quot;D(f) Ai(c) Jc(c)&quot;]/div[@class=&quot;W(400px)&quot;]/div[@class=&quot;Fw(b) Fz(18px) Lh(1.33) C(c-secondary) Pb(4px)&quot;]</value>
+      <webElementGuid>c37c756f-1180-4dc3-9ef1-fa863fe15e3f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search-result']/div[4]/a/div[2]/div</value>
+      <webElementGuid>1db6bd54-8515-4fb9-88ba-3b9908ab0cf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keluar'])[1]/following::div[4]</value>
+      <webElementGuid>bbb2a978-41b6-4eb2-a09b-11d83b51abd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[2]/following::div[4]</value>
+      <webElementGuid>1ab5a661-fad6-4bb9-8702-af7d6937f4bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Anggota: 864'])[1]/preceding::div[1]</value>
+      <webElementGuid>f50c4d3c-11cb-462b-a016-b4c33fcb2493</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gabung'])[2]/preceding::div[3]</value>
+      <webElementGuid>1a68d344-a339-47e4-b549-d7beee779271</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='F1']/parent::*</value>
+      <webElementGuid>f02a9578-f2bc-4b5a-b250-26b4a1954c46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div[2]/div</value>
+      <webElementGuid>05fb8965-ca13-4281-bbbd-51601a225180</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'F1 ' or . = 'F1 ')]</value>
+      <webElementGuid>31eb2870-107d-41da-91da-86d6c901118d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
